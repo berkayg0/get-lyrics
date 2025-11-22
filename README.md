@@ -25,7 +25,7 @@ pip install -r requirements.txt
 1. This application was made with python language.
 2. Tkinter was used as GUI.
 3. googletrans, lyricsgenius, pyperclip, spotipy libraries were used.
-
+```
 ### Copyright Notice
 This screenshot includes copyrighted content that belongs to its respective owners.
 Only a small portion of the lyrics is visible for demonstration purposes.
